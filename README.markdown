@@ -43,10 +43,7 @@ This project was developed as part of the **Infosys Springboard 5.0 Internship**
 
 ### 4. Video Demonstration
 
-- Watch the project presentation: \[Insert video link, e.g., YouTube or Google Drive URL\].
-- Content: \[Describe briefly, e.g., "5-minute video showcasing data preprocessing, model training, and results."\].
-
-## 
+- [Watch the project presentation:](https://youtu.be/9TPm-FA387Q)
 
 ## Contributors
 
