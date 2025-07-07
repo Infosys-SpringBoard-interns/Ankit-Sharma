@@ -33,11 +33,7 @@ This project was developed as part of the **Infosys Springboard 5.0 Internship**
 ### 3. Results
 
 - **Model Performance** (Update with your metrics):
-  - TabNet: \[Insert accuracy, e.g., 85%\]
-  - Random Forest: \[Insert accuracy, e.g., 82%\]
-  - SVM: \[Insert accuracy, e.g., 80%\]
-  - Logistic Regression: \[Insert accuracy, e.g., 78%\]
-- **Key Insight**: TabNet outperformed traditional machine learning models after hyperparameter optimization, as visualized through MLflow dashboards.
+- *Key Insight*: TabNet outperformed traditional machine learning models after hyperparameter optimization, as visualized through MLflow dashboards.
 - **MLflow Result Visualization**:
 - ![Alt text](https://github.com/Infosys-SpringBoard-interns/Ankit-Sharma/blob/90b03c6b616f97b7169b44bcea414c25ef572ae5/tabnet_mlflow_result.jpg)
 
