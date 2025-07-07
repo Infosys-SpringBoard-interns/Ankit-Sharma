@@ -43,7 +43,7 @@ This project was developed as part of the **Infosys Springboard 5.0 Internship**
 
 ### 4. Video Demonstration
 
-- [Watch the project presentation:](https://youtu.be/9TPm-FA387Q)
+- [Watch the project presentation video](https://youtu.be/9TPm-FA387Q)
 
 ## Contributors
 
